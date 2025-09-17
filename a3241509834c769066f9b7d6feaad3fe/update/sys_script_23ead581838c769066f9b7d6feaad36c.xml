@@ -30,7 +30,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	current.u_common2 = 'Inserted from CommonScript1';
-	gs.info('add companyA Updateset');
+	gs.info('companyA Updateset Ver1.1');
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -39,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>23ead581838c769066f9b7d6feaad36c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>CommonScript1</sys_name>
         <sys_overrides/>
         <sys_package display_value="113sfWebCommon" source="x_1794112_113webcm">a3241509834c769066f9b7d6feaad3fe</sys_package>
@@ -47,7 +47,7 @@
         <sys_scope display_value="113sfWebCommon">a3241509834c769066f9b7d6feaad3fe</sys_scope>
         <sys_update_name>sys_script_23ead581838c769066f9b7d6feaad36c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-16 08:10:29</sys_updated_on>
+        <sys_updated_on>2025-09-17 00:52:47</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
